@@ -13,18 +13,7 @@ Here the only goals are:
  
 So feel free to download, fork, pull request and (why not?) hack!
 
-These will be the next steps:
-
-- Decouple peer actions from node action;
-- Decouple mining actions from peer action;
-- Define the reward mechanisms for miners;
-- Develop a cli for peers;
-- Develop a cli for miners;
-- Improve the Peer Discovery Protocol performed by the node;
-- Deploy the node software to some servers to test the blockchain on a real network.
-
 Any suggestions and contributions (in terms of development) will be appreciated and evaluated. You can contact me here or on the brand new Discord channel https://discord.gg/uXqGdeKr
-
 
 -------------------------------------------------------------
 This section will depend on the current state of the project
@@ -35,6 +24,16 @@ Current Features:
 - Double-spending solution: UTXO
 - Consensus: Proof-of-Work
 - Network: P2P with Discovery server
+
+These will be the next steps:
+
+- Decouple peer actions from node action;
+- Decouple mining actions from peer action;
+- Define the reward mechanisms for miners;
+- Develop a cli for peers;
+- Develop a cli for miners;
+- Improve the Peer Discovery Protocol performed by the node;
+- Deploy the node software to some servers to test the blockchain on a real network.
 
 To run the software:
 - Execute mainmethod in SharPeiChain class (this will run the node thread on localhost:8080)
