@@ -27,7 +27,7 @@ Any suggestions and contributions (in terms of development) will be appreciated 
 
 
 -------------------------------------------------------------
-This section will depend to the current state of the project
+This section will depend on the current state of the project
 -------------------------------------------------------------
 Current Features:
 - Chain Data Structure: Java HashMap
